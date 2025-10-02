@@ -1,0 +1,9 @@
+.navegador {
+    background-color: #4989ba;
+    padding: 2px;
+    color: #151b1e;
+    margin: 10px;
+    border-radius: 2px;
+    padding: 8px;
+    cursor: pointer;
+}
